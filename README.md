@@ -1,6 +1,6 @@
 # MemoryUly
 
-**MemoryUly**  MemoryUly is an android game that allows user to play pre-made card matching game or they can create their own uploading pictures into the Parse database
+**MemoryUly** is an android game that allows user to play pre-made card matching game or they can create their own uploading pictures into the Parse database
 
 <img src='cardmatch.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
